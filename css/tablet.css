@@ -1,0 +1,28 @@
+.plan-section{
+    justify-content: center;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 15px;
+    height: auto;
+}
+
+.product-detail--card{
+    width: 45%;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    
+}
+
+.plan-section{
+    overflow-x: hidden;
+}
+
+
+/*  APLICAR ESTA PROPIEDAD PARA UNA MEJOR VISUALIZACION
+background-image: url(../assets/img/bitcoinbaby2x.jpg);
+    background-attachment: fixed; */
